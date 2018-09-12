@@ -3,6 +3,6 @@
 #
 # Released under the MIT license.
 
-FROM aquachain/xgo-1.10.x
+FROM aquachain/xgo-1.11.x
 
 MAINTAINER Péter Szilágyi <peterke@gmail.com>
